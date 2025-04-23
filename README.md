@@ -10,7 +10,7 @@ The goal is to build a robust binary classification model that helps hotels redu
 - Model training and evaluation
 - Experiment tracking with MLflow
 - CI/CD automation using Jenkins
-- Model deployment via GVP (Generic Virtual Platform)
+- Model deployment
 
 ## 🛠️ Tools & Technologies
 
