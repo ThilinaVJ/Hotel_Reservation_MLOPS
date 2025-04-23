@@ -1,4 +1,4 @@
-# 🏨 Hotel No-Show Prediction with MLOps
+# 🏨 Hotel Reservation Prediction with MLOps
 
 This project predicts the likelihood of a hotel reservation resulting in a no-show, using machine learning and end-to-end MLOps practices. It demonstrates how to take a model from development to production with proper tooling and automation.
 
